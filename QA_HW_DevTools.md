@@ -1,7 +1,7 @@
 Devtools HW
 
 Сделать скрин видео выполнения задания.
-Видео засылайте в личку. 
+https://drive.google.com/file/d/1SL1zwiXoXu6d5mRKtV7rOya9FAsx2ovL/view?usp=sharing
 
 1. Открыть сайт http://itcareer.pythonanywhere.com/
  1. Открыть Chrome DevTools
